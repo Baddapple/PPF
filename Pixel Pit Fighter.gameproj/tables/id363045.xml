@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="BattleTable" numRows="20" numCols="2" flags="" tableType="">
+    <rows>
+        <row id="0" name="1"/>
+        <row id="1" name="2"/>
+        <row id="2" name="3"/>
+        <row id="3" name="4"/>
+        <row id="4" name="5"/>
+        <row id="5" name="6"/>
+        <row id="6" name="7"/>
+        <row id="7" name="8"/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+        <row id="10" name=""/>
+        <row id="11" name=""/>
+        <row id="12" name=""/>
+        <row id="13" name=""/>
+        <row id="14" name=""/>
+        <row id="15" name=""/>
+        <row id="16" name=""/>
+        <row id="17" name=""/>
+        <row id="18" name=""/>
+        <row id="19" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Roll" type="1" readonly="0">3,4,Hit \n3X Damage,Hit \n2X Damage,Hit,Hit,Hit,Hit,,,,,,Miss,Miss,Miss,Miss\nWeapon dropped,Miss\nBroken Weapon,,</column>
+        <column id="1" name="Result" type="1" readonly="0">Miss,Miss,Hit \n3X Damage,,Hit,,,,,,,,,,,,,,,</column>
+    </columns>
+</table>
