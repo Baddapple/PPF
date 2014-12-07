@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="PlayerTable" numRows="5" numCols="6" flags="" tableType="">
+<table version="1.000000" name="PlayerTable" numRows="5" numCols="8" flags="" tableType="">
     <rows>
         <row id="0" name="Player Stats"/>
         <row id="1" name=""/>
@@ -11,8 +11,10 @@
         <column id="0" name="STR" type="2" readonly="0">0,0,0,0,0</column>
         <column id="1" name="DEX" type="2" readonly="0">0,0,0,0,0</column>
         <column id="2" name="LEVEL" type="2" readonly="0">0,0,0,0,0</column>
-        <column id="3" name="Armor" type="2" readonly="0">0,0,0,0,0</column>
-        <column id="4" name="Weapon" type="2" readonly="0">0,0,0,0,0</column>
-        <column id="5" name="Player Image" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="3" name="Weapon Dice" type="1" readonly="0">,,,,</column>
+        <column id="4" name="Weapon Bonus" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="5" name="Armor" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="6" name="Armor Bonus" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="7" name="Player Image" type="2" readonly="0">0,0,0,0,0</column>
     </columns>
 </table>
