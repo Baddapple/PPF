@@ -1,1 +1,0 @@
-{"providers":[{"provider":"chartboost","percentToUse":50,"showAtStart":false,"showBetweenScenes":true,"secsBetweenViews":15},{"provider":"revmob","percentToUse":50,"showAtStart":true,"showBetweenScenes":false,"secsBetweenViews":15},{"provider":"playhaven","percentToUse":0,"showAtStart":false,"showBetweenScenes":false,"secsBetweenViews":15}]}
