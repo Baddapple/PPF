@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="EnemiesTable" numRows="20" numCols="11" flags="" tableType="">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+        <row id="10" name=""/>
+        <row id="11" name=""/>
+        <row id="12" name=""/>
+        <row id="13" name=""/>
+        <row id="14" name=""/>
+        <row id="15" name=""/>
+        <row id="16" name=""/>
+        <row id="17" name=""/>
+        <row id="18" name=""/>
+        <row id="19" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Enemy #" type="2" readonly="1">1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10</column>
+        <column id="1" name="Enemy Level" type="2" readonly="1">1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2</column>
+        <column id="2" name="Enemy" type="1" readonly="1">Pit Fighter lvl 1,Pit Fighter lvl 2,Pit Fighter lvl 3,Pit Fighter lvl 4,Pit Fighter lvl 5,Pit Fighter lvl 6,Pit Fighter lvl 7,Pit Fighter lvl 8,Pit Fighter lvl 9,Pit Fighter lvl 10,Pit Fighter lvl 11,Pit Fighter lvl 12,Pit Fighter lvl 13,Pit Fighter lvl 14,Pit Fighter lvl 15,Pit Fighter lvl 16,Pit Fighter lvl 17,Pit Fighter lvl 18,Pit Fighter lvl 19,Pit Fighter lvl 20</column>
+        <column id="3" name="STR" type="2" readonly="1">11,12,13,14,15,16,17,18,19,20,18,19,20,21,23,26,27,25,26,27</column>
+        <column id="4" name="DEX" type="2" readonly="1">14,14,14,14,14,14,14,14,14,14,17,19,18,17,16,14,14,17,17,17</column>
+        <column id="5" name="Damage" type="1" readonly="1">d6,d6,d6,d6,d6,d6,d6,d6,d6,34,35,38,38,38,39,40,41,42,43,44</column>
+        <column id="6" name="Weapon" type="2" readonly="1">25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44</column>
+        <column id="7" name="Dice Bonus" type="2" readonly="1">0,0,1,1,1,2,2,2,3,3,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="8" name="Image" type="1" readonly="0">,,,,,,,,,,,,,,,,,,,</column>
+        <column id="9" name="Short Description" type="1" readonly="0">,,,,,,,,,,,,,,,,,,,</column>
+        <column id="10" name="Long Description" type="1" readonly="0">,,,,,,,,,,,,,,,,,,,</column>
+    </columns>
+</table>
