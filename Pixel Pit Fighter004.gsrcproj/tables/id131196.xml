@@ -13,7 +13,7 @@
         <row id="9" name=""/>
     </rows>
     <columns>
-        <column id="0" name="Weapons Name" type="1" readonly="0">Wooden \nSword,Spiked\nGaunlet,Rusty \nSword,Short\nSword,Bastard\nSword,Hand\nAxe,Spear,Double Axe,Long Sword,Heavy\nSword</column>
+        <column id="0" name="Weapons Name" type="1" readonly="0">Wooden Sword,Broken Sword,Rusty Sword,Short Sword,Bastard Sword,Hand Axe,Long Spear,Double Axe,Long Sword,Heavy Sword</column>
         <column id="1" name="STR Cost" type="2" readonly="0">8,9,10,11,12,13,14,15,16,17</column>
         <column id="2" name="Damage" type="2" readonly="0">6,6,6,6,6,6,6,6,6,6</column>
         <column id="3" name="Bonus" type="2" readonly="0">0,1,1,2,2,3,3,4,4,5</column>
