@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Landing" numRows="10" numCols="9" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name="Speed"/>
+        <row id="8" name="Alt"/>
+        <row id="9" name="High Score"/>
+    </rows>
+    <columns>
+        <column id="0" name="Landing Message" type="1" readonly="0">Safe,Rough,Crash,Nice,Perfect!,Crater,,,,</column>
+        <column id="1" name="Alt" type="3" readonly="0">425.000000,625.000000,825.000000,1025.000000,1225.000000,1425.000000,1625.000000,1825.000000,0.000000,0.000000</column>
+        <column id="2" name="Speed" type="3" readonly="0">300.000000,0.000000,0.000000,50.000000,10.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="3" name="Ads" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="4" name="Store Price" type="3" readonly="0">100.000000,200.000000,500.000000,1000.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="5" name="UI Y" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,470.000000,470.000000,0.000000</column>
+        <column id="6" name="X" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,290.000000,30.000000,0.000000</column>
+        <column id="7" name="spacing" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,20.000000,20.000000,0.000000</column>
+        <column id="8" name="Size" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+    </columns>
+</table>

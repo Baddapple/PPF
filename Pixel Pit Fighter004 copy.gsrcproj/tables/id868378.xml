@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="DialogueTable" numRows="13" numCols="1" flags="" tableType="">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+        <row id="10" name=""/>
+        <row id="11" name=""/>
+        <row id="12" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Dialogue" type="1" readonly="0">Welcome to The Pit...fighter,Please\, tell me your specialty,Are you good with a weapon?,Dodge\, weave and strike quickly?,Or\, something in between?,Choose wisely fighter because your \nlife depends on it,Tap the Sword to add Strength points,This will determine your Hit\nPoints and what weapons you \ncan wield ,Tap the Shield to add Dexterity,This will determine how quick you\nare and your ablity to hit your\nopponent,You have 8 points to divide between\nthe two. Make your Choice...fighter.,When you are ready pull the switch \nto enter the Pit,Good Luck...Fighter</column>
+    </columns>
+</table>

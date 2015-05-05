@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="ArmorTable" numRows="10" numCols="6" flags="" tableType="">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+        <row id="5" name=""/>
+        <row id="6" name=""/>
+        <row id="7" name=""/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Name" type="1" readonly="1">Buckler,Padded,Wooden Shield,Leather,Shield\nLight Steel,Studded \nLeather,Shield\nHeavy Wood,Studded\nLeather,Shield\nHeavy Steel,Chain Shirt</column>
+        <column id="1" name="DEX Cost" type="2" readonly="1">8,9,10,11,12,13,14,15,16,17</column>
+        <column id="2" name="Damage Protection" type="2" readonly="1">1,1,2,2,3,3,4,4,5,5</column>
+        <column id="3" name="Armor Dex Penalty" type="2" readonly="1">0,0,1,1,2,2,3,3,4,4</column>
+        <column id="4" name="image" type="2" readonly="1">1,2,3,4,5,6,7,8,9,10</column>
+        <column id="5" name="Hand" type="2" readonly="0">1,0,1,0,1,0,1,0,1,0</column>
+    </columns>
+</table>

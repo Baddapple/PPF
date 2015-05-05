@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Settings" numRows="10" numCols="10" flags="9" tableType="0">
+    <rows>
+        <row id="0" name="LanderAlive"/>
+        <row id="1" name="LanderDead"/>
+        <row id="2" name="Crash"/>
+        <row id="3" name="TouchDown"/>
+        <row id="4" name="Altitude"/>
+        <row id="5" name="Thrust"/>
+        <row id="6" name="Change Background"/>
+        <row id="7" name="Refill"/>
+        <row id="8" name=""/>
+        <row id="9" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="" type="4" readonly="0">0,0,0,0,0,0,0,0,0,0</column>
+        <column id="1" name="" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,420.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="2" name="" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,200.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="3" name="" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,0.000000</column>
+        <column id="4" name="" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,5.000000,10.000000,0.000000,0.000000</column>
+        <column id="5" name="" type="3" readonly="0">0.000000,0.000000,0.000000,0.000000,0.000000,0.000000,10.000000,0.000000,0.000000,0.000000</column>
+        <column id="6" name="" type="1" readonly="0">,,,,,,,,,</column>
+        <column id="7" name="" type="1" readonly="0">,,,,,,,,,</column>
+        <column id="8" name="" type="1" readonly="0">,,,,,,,,,</column>
+        <column id="9" name="" type="1" readonly="0">,,,,,,,,,</column>
+    </columns>
+</table>
