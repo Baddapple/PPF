@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="EnemyTable" numRows="5" numCols="9" flags="" tableType="">
+    <rows>
+        <row id="0" name="Enemy Stats"/>
+        <row id="1" name=""/>
+        <row id="2" name=""/>
+        <row id="3" name=""/>
+        <row id="4" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="DEX" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="1" name="STR" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="2" name="LEVEL" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="3" name="Weapon DICE" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="4" name="Weapon Bonus" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="5" name="Armor" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="6" name="Armor Bonus" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="7" name="Armor DEX +/-" type="2" readonly="0">0,0,0,0,0</column>
+        <column id="8" name="Enemy Image" type="2" readonly="0">0,0,0,0,0</column>
+    </columns>
+</table>
